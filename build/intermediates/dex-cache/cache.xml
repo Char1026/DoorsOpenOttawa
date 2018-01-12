@@ -2,22 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/878f2605581dc7d6c4e5b16096f1d8ef20c11b75/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="0987a16357cb3efe841fc6abd06a9498b71f2833">
-        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2006240b980e3a72d30cbc4ec7f98c44d7c0f078/classes.dex" />
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_ff3e3cefd5be934f6b0d70d1cdd33966c49edb7e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/1266815a733ee85526151c7fd7beba3c26a87ff4/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_08449f964cbf4346648482c042001ceff4ec122e/classes.dex" />
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_6a838f391a448d72f1e8c0d0fc0e0705812064d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/202fb2c2e6f1018e55afb26991f050ee3450fdc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_b4bf4cf17b4e4cc2ad02510ca1c7fdc1f1d75546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/6eea13c7fa1d5d7152d2f3e3ff9f71f8e50b9214/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_838264015ed276e8286793c6cbb3052960df7a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/51e08fab23fff54da23071f38fc9c69c0a9fb80e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_e1f0a6184d710348cda9030d45f23f3470c77bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/e460dbdc4a030317b24ad1bc3b86732af4864e73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_71c7e3f2470e0565a43edd976c8239da391dc333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/194d09fdc235ed9ac1c78b3b4f05be72f32d7e20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_c9a4af10237145e0fa8b2cf172fa5e73c8bbd7fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/d932688bade70274028eb9f9f00cd19279896962/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_054bd65722fcc2565aaaf1c12bdb73c5704be876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/3c89de346c0edb269f90b886b82b75f57047b7f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_ae0b5c2c0458463e86f3fea55b8d50b05d88ae92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/23710710795c7728aa35025274693fb9a419d5b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_931fe5c7e139d5b787649b5d3606c6c9338df28f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_f4a6f5103f2f21862acd9031ac30a771757b3605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/gson-2.8.2_f0d36cc7cbdaf48ea3a356602c157c9eec70b256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/90cffebebd32bcb2f70c785aac238c100207514c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_1be2a2b31ecfb042f18e64a8f0abf97c9e358f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/1814c736e6eef98d3353c477e82981b649d91d41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_f89e5ea801373f1d2690aad32397998c34385b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.android/build-cache/9463003873279314d44cf72c40769b52a6a7094d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/classes_501e0a41228c3efb367853525e7bb3b393e11c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_73c1989a60671492d369f886afe045e7caf45655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tylercharlebois/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/tylercharlebois/Downloads/DoorsOpenOttawaaa/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_1ce05c835b0a0061da0476d0f38d7f85fb731f6c.jar" />
     </item>
 
 </items>

@@ -33,7 +33,6 @@ public class MyService extends IntentService {
 
         String response;
         try {
-            // TODO: change to your AC username + password :)
             response = HttpHelper.downloadUrl(requestPackage, "char1026", "password");
         } catch (IOException e) {
             e.printStackTrace();
